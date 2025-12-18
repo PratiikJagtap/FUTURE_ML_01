@@ -60,3 +60,9 @@ The solution combines:
 - Use advanced forecasting models (Prophet, XGBoost)
 - Automate data refresh and forecasting pipeline
 - Deploy dashboard to Power BI Service
+
+## ScreenShots
+1:
+![Dashboard Overview](Dashboard_View_Page_1.png)
+2:
+![Dashboard Overview](Dashboard_View_Page_2.png)
