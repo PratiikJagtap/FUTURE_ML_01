@@ -49,7 +49,7 @@ The solution combines:
 ##  🛠️ Tools & Technologies
 
 - Python: Pandas, NumPy, Jupyter Notebook
-- Forecasting: Time Series Models
+- Forecasting: Time Series Model(Prophet)
 - Visualization: Power BI
 - Data Storage: CSV
 - Version Control: Git & GitHub
