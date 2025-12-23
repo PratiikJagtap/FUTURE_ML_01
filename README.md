@@ -1,5 +1,7 @@
 # 📊 Sales Forecasting Dashboard (Time Series Forecasting + Power BI + Python + Jupyter Lab)
-### Video Presentation: https://youtu.be/1EXfvlCpMtc?si=NalYvff7fNRE5NYH
+
+#### Video Presentation: https://youtu.be/1EXfvlCpMtc?si=NalYvff7fNRE5NYH
+
 ## 📌 Project Overview
 This project focuses on forecasting future sales using historical Superstore data and presenting insights through an interactive Power BI dashboard.  
 The goal is to help business users understand sales trends, seasonality, and future demand to support better decision-making.
